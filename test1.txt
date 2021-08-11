@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C007-D1C2
+
+ Directory of C:\Users\ujjwa\OneDrive\Desktop\Files\Newfile
+
+08/11/2021  05:30 PM    <DIR>          .
+08/11/2021  05:30 PM    <DIR>          ..
+08/11/2021  05:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  443,928,649,728 bytes free
